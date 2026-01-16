@@ -1,9 +1,48 @@
-- 👋 Hello, My name is Vikram, I'm a Computer Science undergrad who is currently working as a Junior developer in TLX Tech Solutions, Coimbatore.
-- 👀 I'm interested in developing and deploying web applications.
-- 🌱 I’m currently learning frameworks like Vue, Nest and .NET. I'm also learning typescript, terraform, C#, MongoDB and such.
-- 📫 You can reach me at vikiten10@gmail.com
+# 👋 Hi, I’m Vikram Ravichandran
 
-<!---
-vikiten10/vikiten10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Software Developer | .NET • Vue.js • Distributed Systems • Cloud & DevOps
+
+I’m a software engineer with 4+ years of professional experience, specializing in building scalable, high-performance applications in the **.NET ecosystem** and **Vue.js**. I enjoy working on complex systems, modernizing legacy platforms, and designing solutions that have measurable business impact.
+
+Currently working at **TLX Tech Solutions (Aptean subsidiary)**, where I design and build distributed systems, authentication platforms, real-time applications, and cloud infrastructure.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`C#` • `T-SQL` • `JavaScript` • `TypeScript`
+
+### Backend
+`ASP.NET Core` • `Entity Framework` • `SignalR` • `OAuth 2.0` • `OpenTelemetry`
+
+### Frontend
+`Vue.js` • `Quasar` • `Electron`
+
+### Cloud / DevOps
+`AWS ` • `Docker` • `Terraform` • `Linux`
+
+### Databases
+`SQL Server` • `PostgreSQL`
+
+---
+
+## 🧠 Areas of Interest
+
+- Distributed systems & observability  
+- Authentication and identity platforms  
+- Real-time communication systems  
+- Algorithmic optimization
+- Cloud-native infrastructure & Infrastructure as Code  
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: **vikram.ravic@gmail.com**
+- 💼 LinkedIn: [https://www.linkedin.com/in/vikram-ravichandran-804b40169/](https://www.linkedin.com/in/vikram-ravichandran-804b40169/)
+- 🧑‍💻 GitHub: [github.com/vikiten10](https://github.com/vikiten10)
+
+---
+
+> I believe in writing clean, maintainable code, taking ownership of complex systems, and building software that solves real business problems.
